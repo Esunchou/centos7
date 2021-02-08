@@ -14,8 +14,8 @@
 $
 
 # Command Line History (newest to oldest):
-:q
 :wq
+:q
 :q!
 :78
 :!
@@ -62,20 +62,21 @@ $
 	 
 
 # File marks:
-'0  1  0  ~/.ssh/id_rsa.pub
-'1  1  0  ~/.gitignore
-'2  7  54  ~/.bashrc
-'3  1  0  /etc/hostname
-'4  1  0  /etc/sysconfig/network
-'5  8  0  ~/.bashrc
-'6  16  0  ~/.bash_profile
-'7  1  0  ~/
-'8  9  0  ~/.bash_profile
-'9  10  0  ~/.bash_profile
+'0  4  6  ~/.gitignore
+'1  1  0  ~/.ssh/id_rsa.pub
+'2  1  0  ~/.gitignore
+'3  7  54  ~/.bashrc
+'4  1  0  /etc/hostname
+'5  1  0  /etc/sysconfig/network
+'6  8  0  ~/.bashrc
+'7  16  0  ~/.bash_profile
+'8  1  0  ~/
+'9  9  0  ~/.bash_profile
 
 # Jumplist (newest first):
--'  1  0  ~/.ssh/id_rsa.pub
+-'  4  6  ~/.gitignore
 -'  1  0  ~/.gitignore
+-'  1  0  ~/.ssh/id_rsa.pub
 -'  7  54  ~/.bashrc
 -'  1  0  /etc/hostname
 -'  1  0  /etc/sysconfig/network
@@ -174,12 +175,14 @@ $
 
 # History of marks within files (newest to oldest):
 
+> ~/.gitignore
+	"	4	6
+	^	4	7
+	.	4	6
+	+	4	6
+
 > ~/.ssh/id_rsa.pub
 	"	1	0
-
-> ~/.gitignore
-	"	1	0
-	^	1	0
 
 > ~/.bashrc
 	"	7	54
