@@ -13,4 +13,5 @@ PATH=$PATH:$HOME/.local/bin:$HOME/bin
 export PATH
 
 alias cdlinux='cd $HOME/zhouyq/linux'
+alias ll='ls -lrt'
 

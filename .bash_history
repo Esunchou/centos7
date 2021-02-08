@@ -1009,3 +1009,116 @@ ls
 cd
 vi .bashrc
 . .bash_profile
+ls
+pwd
+hostname
+yum install git
+su - root
+git init
+ls
+git status
+vi .gitignore
+ls
+cd zhouyq
+ls
+cd linux
+ls
+git status
+cd
+cd -
+git remote show origin
+clear
+cd
+ls
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Esunchou/centos7.git
+git push -u origin main
+ssh-keygen
+ls
+cd .ssh
+ls
+vi id_rsa.pub
+ls
+cd
+git remote show origin
+ls
+ls -a
+git status
+git add .
+git commit -m "zhouyaqing"
+ls
+cd .mozilla/
+ls
+cd ..
+ls
+vi .gitignore
+ls
+git status
+ls
+git add .
+git status
+git commit -m 'zhouyaqing"
+
+c
+git status
+git add .
+git commit -m 'zhouyaqing'
+git push -u origin master
+git pull origin master
+git push -u origin main
+git remote show origin
+git pull origin main
+git branch
+git push -u origin master
+ls
+vi .gitignore
+git status
+vi viminfo
+vi .viminfo
+vi .gitignore
+git statis
+git status
+vi .gitignore
+git status
+ls
+git add .gitignore
+git commit -m "zhou"
+git push origin master
+git push -u origin master
+git pull origin master
+git push origin master
+git remote show origin
+cd .ssh
+ls
+cd
+
+git pull origin master
+rm -f .viminfo
+git pull origin master
+ls
+git pull origin master
+git status
+git commit -m "zhouyaqing"
+ls
+git status
+git commit -a
+git status
+git add .viminfo
+git status
+git rm .viminfo
+git commit -m "zhouyaqing"
+git push origin master
+git status
+git pull origin master
+ls
+l s-a
+ls -a
+git status
+vi .gitignore
+git status
+clear
+ls
+vi .bash_profile 
+. .bash_profile
